@@ -1,0 +1,14 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad3" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#grad3)"/>
+  <rect x="120" y="120" width="960" height="520" rx="28" fill="#ffffff" stroke="#cbd5e1"/>
+  <circle cx="600" cy="280" r="120" fill="#e2e8f0"/>
+  <path d="M600 210 V350 M530 280 H670" stroke="#94a3b8" stroke-width="20" stroke-linecap="round"/>
+  <text x="430" y="460" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#0f172a">Project Baru</text>
+  <text x="370" y="520" font-family="Arial, sans-serif" font-size="24" fill="#475569">Segera hadir dan akan ditampilkan di sini.</text>
+</svg>

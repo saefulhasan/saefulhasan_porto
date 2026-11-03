@@ -1,0 +1,38 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#f1f5f9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <rect x="60" y="80" width="1080" height="620" rx="28" fill="url(#card)" stroke="#cbd5e1"/>
+  <rect x="96" y="118" width="300" height="52" rx="12" fill="#0f172a"/>
+  <circle cx="146" cy="144" r="10" fill="#f97316"/>
+  <circle cx="180" cy="144" r="10" fill="#fbbf24"/>
+  <circle cx="214" cy="144" r="10" fill="#34d399"/>
+  <text x="248" y="154" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Apotek Amanda</text>
+  <rect x="96" y="210" width="250" height="190" rx="16" fill="#e2e8f0"/>
+  <rect x="376" y="210" width="720" height="190" rx="16" fill="#f8fafc" stroke="#dbeafe"/>
+  <rect x="404" y="238" width="180" height="22" rx="11" fill="#dbeafe"/>
+  <rect x="404" y="278" width="260" height="18" rx="9" fill="#e2e8f0"/>
+  <rect x="404" y="314" width="250" height="18" rx="9" fill="#e2e8f0"/>
+  <rect x="404" y="350" width="220" height="18" rx="9" fill="#e2e8f0"/>
+  <rect x="96" y="432" width="1000" height="210" rx="18" fill="#f8fafc" stroke="#dbeafe"/>
+  <rect x="128" y="468" width="230" height="140" rx="16" fill="#fef3c7"/>
+  <rect x="390" y="468" width="230" height="140" rx="16" fill="#dbeafe"/>
+  <rect x="652" y="468" width="230" height="140" rx="16" fill="#dcfce7"/>
+  <rect x="914" y="468" width="138" height="140" rx="16" fill="#fce7f3"/>
+  <text x="128" y="522" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#0f172a">Kriteria</text>
+  <text x="390" y="522" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#0f172a">Data</text>
+  <text x="652" y="522" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#0f172a">Hasil</text>
+  <text x="914" y="522" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#0f172a">Rekomendasi</text>
+  <text x="142" y="546" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#b45309">AHP</text>
+  <text x="420" y="547" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#1d4ed8">12</text>
+  <text x="682" y="548" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#15803d">86%</text>
+  <text x="944" y="548" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#9d174d">Best</text>
+</svg>
